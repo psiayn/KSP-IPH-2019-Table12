@@ -1,0 +1,17 @@
+Scrapy==1.7.2
+urllib3==1.24.3
+parsel==1.5.2
+selenium==3.141.0
+imageio==2.6.1
+requests==2.22.0
+aiohttp
+aiodns
+beautifulsoup4
+cchardet
+elasticsearch
+pysocks
+pandas>=0.23.0
+aiohttp_socks
+schedule
+geopy
+fake-useragent
