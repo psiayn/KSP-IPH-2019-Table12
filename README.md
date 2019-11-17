@@ -3,7 +3,7 @@
 # This code only works on only unix systems
 # To setup dependencies
 ```
-sudo pip3 install -r . requirements.txt
+sudo pip3 install -r . requirments.txt
 ```
 # To run the tool
 ```
